@@ -1,2 +1,2 @@
 # MPnet
-deep learning for enhancing Mars Polar SHARAD frequency content
+deep learning project for SHARAD data enhancement
